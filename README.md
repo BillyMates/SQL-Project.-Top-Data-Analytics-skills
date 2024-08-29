@@ -1,7 +1,7 @@
 # Introduction
 Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics. I used data provided by Luke Barose (an influencer).
 
-🔍 SQL queries? Check them out here: [project_sql folder](/project1_sql/)
+🔍 Check SQL queries out here: [project_sql folder](/project1_sql/)
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
